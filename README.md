@@ -31,3 +31,6 @@ on your own.
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Help](https://help.github.com/)
 - [D-Lab Git Lesson](https://github.com/dlab-berkeley/git-fundamentals)
+- [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+- [Interactive GitHub Tutorial](https://try.github.io/levels/1/challenges/1)
